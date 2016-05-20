@@ -21,6 +21,7 @@ public class PascalTriange {
 			{
 				System.out.print(" ");
 			}
+			
             int number = 1;
             //Iteration to find value in each row
 			for(int i=0;i<=currentRow;i++)
